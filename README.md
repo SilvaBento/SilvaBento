@@ -19,9 +19,11 @@
 </div>
 
 <div>
+ 
   <a href = "mailto:silva.josebento44@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor =white" target="_blank"></a>
   <a href="https://[www.linkedin.com/in/laura-lorrayne-71a044115/](https://www.linkedin.com/in/jos%C3%A9-bento-silva-832158213/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn- %230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- ![Snake animation](https://github.com/silvabento/silvabento/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/SilvaBento/SilvaBento/blob/main/.github/workflows/main.yml)
+ 
  </div>
 
 
