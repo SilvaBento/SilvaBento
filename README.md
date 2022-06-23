@@ -8,12 +8,12 @@
  
 <div style="display: inline_block">  
  
-  <img align="center" alt="Java" width="40" src="https://img.icons8.com/color/480/java-coffee-cup-logo--v1.png" />
-  <img align="center" alt="Python" width="40" src="https://img.icons8.com/color/512/python--v1.png" />
-  <img align="center" alt="HTML" width="40" src="https://img.icons8.com/color/512/html-5--v1.png ">
-  <img align="center" alt="CSS" width="40" src="https://img.icons8.com/color/480/css3.png"> 
-  <img align="center" alt="Js" width="40" src="https://img.icons8.com/color/480/javascript--v1.png ">
-  <img align="center" alt="bootstrap" width="50" src="https://img.icons8.com/color/480/bootstrap.png " />
+  <img align="center" width="40" src="https://img.icons8.com/color/480/java-coffee-cup-logo--v1.png" />
+  <img align="center" width="40" src="https://img.icons8.com/color/512/python--v1.png" />
+  <img align="center" width="40" src="https://img.icons8.com/color/512/html-5--v1.png ">
+  <img align="center" width="40" src="https://img.icons8.com/color/480/css3.png"> 
+  <img align="center" width="40" src="https://img.icons8.com/color/480/javascript--v1.png ">
+  <img align="center" width="50" src="https://img.icons8.com/color/480/bootstrap.png " />
       
 </div>
 
