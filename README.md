@@ -13,9 +13,10 @@
   <img align="center" width="40" src="https://img.icons8.com/color/512/html-5--v1.png ">
   <img align="center" width="40" src="https://img.icons8.com/color/480/css3.png"> 
   <img align="center" width="40" src="https://img.icons8.com/color/480/javascript--v1.png ">
-  <img align="center" width="50" src="https://img.icons8.com/color/480/bootstrap.png " />
+  <img align="center" width="50" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/200/external-bootstrap-a-free-and-open-source-css-framework-logo-color-tal-revivo.png " />
       
 </div>
+
 
  
  
