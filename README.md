@@ -8,12 +8,12 @@
  
 <div style="display: inline_block">  
  
-  <img align="center" alt="Java" width="50" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" />
-  <img align="center" alt="Python" width="50" src="https://img.icons8.com/color/512/python--v1.png" />
-  <img align="center" alt="Js" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" width="50" src="https://img.icons8.com/color/512/html-5--v1.png ">
-  <img align="center" alt="CSS" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-  <img align="center" alt="bootstrap" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg " />
+  <img align="center" alt="Java" width="40" src="https://img.icons8.com/color/480/java-coffee-cup-logo--v1.png" />
+  <img align="center" alt="Python" width="40" src="https://img.icons8.com/color/512/python--v1.png" />
+  <img align="center" alt="HTML" width="40" src="https://img.icons8.com/color/512/html-5--v1.png ">
+  <img align="center" alt="CSS" width="40" src="https://img.icons8.com/color/512/css3.png "> 
+  <img align="center" alt="Js" width="40" src="https://img.icons8.com/fluency/480/javascript.png ">
+  <img align="center" alt="bootstrap" width="50" src="https://img.icons8.com/color/480/python--v1.png " />
       
 </div>
 
