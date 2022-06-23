@@ -6,7 +6,7 @@
    
 </div>
  
-<div style="display: inline_block"><br>  
+<div style="display: inline_block">  
  
   <img align="center" alt="Java" height="30" width="40" src="https://i.pinimg.com/originals/e9/94/61/e99461fdd5b3db8bdb3081d8acf5e524.png" />
   <img align="center" alt="Python" height="30" width="40" src="https://img.icons8.com/color/512/python--v1.png" />
