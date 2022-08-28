@@ -15,6 +15,8 @@
   <img align="center" width="40" src="https://img.icons8.com/color/480/css3.png"> 
   <img align="center" width="40" src="https://img.icons8.com/color/480/javascript--v1.png ">
   <img align="center" width="40" src="https://img.icons8.com/ios-filled/480/ionic.png">
+  <img align="center" width="40" src="https://img.icons8.com/color/512/flutter.png">
+
  
 </div>
 
